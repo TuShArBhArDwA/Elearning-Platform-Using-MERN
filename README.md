@@ -1,5 +1,5 @@
 # Elearning-Platform-Using-MERN
-Software Engineering Course Project
+End-to-End Elearning Solution (MERN Stack)
 
 
 ---
