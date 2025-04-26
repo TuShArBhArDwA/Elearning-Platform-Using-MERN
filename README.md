@@ -1,9 +1,17 @@
 # Elearning-Platform-Using-MERN
 Software Engineering Course Project
 
+
+---
+
+
 ## Description
 
 This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a comprehensive solution for delivering online courses, managing users, and facilitating communication between instructors and students.
+
+---
+
+
 
 ## Features
 
@@ -12,6 +20,9 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 - Content Delivery: Supports various multimedia formats for course materials such as videos, documents, and quizzes.
 - Discussion Forums: Enables communication between students and instructors through discussion forums for each course.
 - Responsive Design: Ensures the platform is accessible and user-friendly across devices of all sizes.
+
+---
+
 
 ## Technologies Used
 
@@ -22,6 +33,10 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 - **Redux**: State management library for managing application state in React.js.
 - **JWT Authentication**: JSON Web Tokens used for user authentication and authorization.
 - **Chakra-UI**: React components for implementing Google's Material Design.
+
+---
+
+
 
 ### Home Page
 ![Home Page](/screenshots/home_page.png)
@@ -56,12 +71,16 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 ### User Enrolled Courses
 ![User Enrolled Courses](/screenshots/user_enrolled_courses.png)
 
+---
+
+
+
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-https://github.com/Sai-Chakradhar-Mahendrakar/Elearning-Platform-Using-MERN.git
+https://github.com/TuShArBhArDwA/Elearning-Platform-Using-MERN.git
 ```
 
 2. Navigate to the project directory:
@@ -100,6 +119,9 @@ node index.js
 
 The application will be accessible at `http://localhost:3000`.
 
+---
+
+
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 If you'd like to contribute to the project:
@@ -107,6 +129,23 @@ If you'd like to contribute to the project:
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a clear description of the changes.
 
-## License
+---
 
+
+
+## License
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+
+## Connect with Me
+
+Feel free to reach out for any queries or collaboration opportunities!
+
+- **T-Bot:** [🤖 Meet T-Bot & discover my work](https://t-bot-blush.vercel.app/)
+- **PortFolio:** [PortFolio](https://tushar-bhardwaj.vercel.app/)
+- **Connect 1:1** - [Let's Connect](https://topmate.io/tusharbhardwaj)
+- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004)
+- **GitHub:** [Tushar Bhardwaj](https://github.com/TuShArBhArDwA)
+- **Email:** tusharbhardwaj2617@gmail.com
